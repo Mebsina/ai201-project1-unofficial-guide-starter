@@ -1,0 +1,556 @@
+Logo
+
+Professors
+Caret Down
+Professor name
+Your school
+Log In
+Sign Up
+Help
+
+Jason Smith
+Computer Science
+The University of Texas at Dallas
+Rate
+Compare
+3.3
+/ 5
+Overall Quality Based on 302 ratings
+Jason Smith
+Professor in the Computer Science department at The University of Texas at Dallas
+56%
+Would take again
+4.3
+Level of Difficulty
+
+Rate
+Arrow Icon
+Compare
+I'm Professor Smith
+Rating Distribution
+Awesome 5
+
+113
+Great 4
+
+57
+Good 3
+
+36
+OK 2
+
+21
+Awful 1
+
+76
+Similar Professors
+5.00
+Emily Fox
+4.90
+Xinda Wang
+4.70
+Yapeng Tian
+302 Student Ratings
+All courses
+Quality
+4.0
+Difficulty
+1.0
+CS2337
+Jun 2nd, 2026
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: Yes
+Grade: A
+Textbook: Yes
+Great class and was very easy to follow. There is a lot of work and projects, but they are very easy. He knows what he is talking about and answers questions. However, for the final, he gave some of us the wrong version of the exam and had to retake it. He did correct the mistake very quickly and gave us many options to retake the exam.
+EXTRA CREDIT
+Clear grading criteria
+Accessible outside class
+Helpful
+Thumbs up
+0
+Thumbs down
+0
+
+Quality
+2.0
+Difficulty
+4.0
+Computer IconCS3341
+Apr 27th, 2026
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: Drop/Withdrawal
+Textbook: Yes
+Online Class: Yes
+Not a good choice for CS 3341 because he was very disorganized. He had to substitute in for another professor who couldn't teach the course. The tests were poorly made and it was evident that basic proof-reading didn't happen. However, I appreciate his effort considering the limited resources and time that he had.
+Test heavy
+Helpful
+Thumbs up
+1
+Thumbs down
+0
+
+Quality
+1.0
+Difficulty
+5.0
+CS3341
+Apr 26th, 2026
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: Not sure yet
+Textbook: Yes
+Professor doesn't give lecture notes, study material or anything helpful before the exam. Exams aren't even related to the homework and are very hard. Nice person, but the course was very disorganized
+Test heavy
+Graded by few things
+Helpful
+Thumbs up
+1
+Thumbs down
+0
+
+Quality
+1.0
+Difficulty
+5.0
+CS2337
+Apr 12th, 2026
+For Credit: Yes
+Attendance: Mandatory
+Grade: Rather not say
+Textbook: Yes
+Do NOT take this professor. If you have not coded MANY TIMES before, his projects are EXTREMELY complicated applications of very simple things he lectures about. He is NOT specific on how his exams are (they are VERY COMPLICATED) and his quizzes are DIFFICULT. The workload in this class is OVERWHELMING. His standard is extremely high.
+Tough grader
+Lots of homework
+Test heavy
+Helpful
+Thumbs up
+2
+Thumbs down
+1
+
+Quality
+5.0
+Difficulty
+1.0
+CS2336
+Apr 11th, 2026
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: A+
+Textbook: Yes
+Professor Smith is the GOAT. I took both CS 1337 and CS 2336 with him and thoroughly enjoyed both classes, receiving A+'s. There are many projects, but if you know what you are doing then they are not difficult. I completed one in an hour, but I have coded many times before. Exams are easy, one was my only 100. Wrote me a rec letter for CS PhD.
+Participation matters
+Amazing lectures
+Lots of homework
+Helpful
+Thumbs up
+2
+Thumbs down
+3
+
+Quality
+1.0
+Difficulty
+5.0
+CS3341
+Apr 8th, 2026
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: Not sure yet
+Textbook: Yes
+Exams are very very Unclear and cant teach well at all. His exams are made last minute and have no clear meaning. Overall nice funny guy just not fit to teach.
+Helpful
+Thumbs up
+2
+Thumbs down
+1
+
+Quality
+1.0
+Difficulty
+5.0
+Computer IconCS3341
+Mar 31st, 2026
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: Not sure yet
+Textbook: Yes
+Online Class: Yes
+Extremely disorganized class. The lectures were not helpful, and the MS Paint teaching style made things worse instead of clearer. The exams had mistakes and felt last minute, with no clear guidance on what to expect. There were basically no useful study guides or resources. I ended up teaching myself the course.
+Tough grader
+Get ready to read
+Helpful
+Thumbs up
+2
+Thumbs down
+1
+
+Quality
+1.0
+Difficulty
+5.0
+CS2337
+Feb 27th, 2026
+Attendance: Mandatory
+Grade: Drop/Withdrawal
+Textbook: Yes
+Of the total course work I had for the year, half of it was dedicated purely to his class. Projects with 2 weeks of time often had extreme amounts of code, and the exams were all in the testing center with absolutely NOT enough time.
+Tough grader
+Get ready to read
+So many papers
+Helpful
+Thumbs up
+3
+Thumbs down
+1
+
+Quality
+3.0
+Difficulty
+5.0
+CS2336
+Feb 14th, 2026
+For Credit: Yes
+Attendance: Mandatory
+he's a great lecturer with a sense of humor, but do NOT take his class if: - you are taking more than 1 other class - you don't have a great GPA - you procrastinate on anything he gives around 3x the workload of a regular class, if you're looking for a B-A in this class then avoid him, but if you're okay with a significant challenge, go for it.
+Tough grader
+Lots of homework
+Hilarious
+Helpful
+Thumbs up
+0
+Thumbs down
+0
+
+Quality
+5.0
+Difficulty
+4.0
+CS2337
+Jan 30th, 2026
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: Yes
+Grade: B
+Textbook: Yes
+In my opinion, Prof. Smith is great, not only for his passion and amazing lectures, but also for his teaching style. I saw a lot of people complaining about the long and tedious projects, but they are great to develop hands-on experience. As long as you start them the same day they are assigned and spend the necessary hours, you should be fine.
+EXTRA CREDIT
+Amazing lectures
+Lots of homework
+Helpful
+Thumbs up
+1
+Thumbs down
+1
+
+Quality
+5.0
+Difficulty
+4.0
+CS2337
+Jan 20th, 2026
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: Yes
+Grade: C+
+Textbook: N/A
+really great professor in my opinion, hes very flexible and easy to work with and i really had a great time in his lectures, very helpful and really cares about what hes teaching.
+EXTRA CREDIT
+Amazing lectures
+Gives good feedback
+Helpful
+Thumbs up
+0
+Thumbs down
+0
+
+Quality
+5.0
+Difficulty
+3.0
+CS2336
+Dec 21st, 2025
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: Yes
+Grade: A-
+Textbook: Yes
+Prof Smith was great despite what his reviews say.. even if I ended with a C in the class, my opinion would not change. He cares for his students and is passionate. He also has pretty meh jokes in his weekly emails but theyre a breath of fresh air. He also gives very inspiring words and things to think about.
+Participation matters
+Inspirational
+Helpful
+Thumbs up
+0
+Thumbs down
+0
+
+Quality
+5.0
+Difficulty
+4.0
+CS2337
+Dec 20th, 2025
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: Yes
+Grade: A-
+Textbook: N/A
+Great professor, I wish he taught higher level courses. There are large projects which can be tough but not extremely challenging if you know what you're doing. He's also super helpful, if you go to his office hours when you're stuck or lost points on an assignment he will give you the information you need and give you some credit for your work.
+Gives good feedback
+Lots of homework
+Caring
+Helpful
+Thumbs up
+0
+Thumbs down
+0
+
+Quality
+1.0
+Difficulty
+4.0
+CS2337
+Dec 19th, 2025
+For Credit: Yes
+Attendance: Mandatory
+Grade: A
+Textbook: Yes
+Very long and difficult projects and long homework assignments given on a online textbook. His lectures are easy to understand and he explains things well. The midterm is really difficult and ask very specific questions you can't really study for. He also gave us the wrong final which meant we had to wait two days to take the real one.
+Lots of homework
+Accessible outside class
+Helpful
+Thumbs up
+1
+Thumbs down
+0
+
+Quality
+1.0
+Difficulty
+3.0
+CS2337
+Dec 12th, 2025
+For Credit: Yes
+Attendance: Mandatory
+Grade: Incomplete
+Textbook: N/A
+This guy is BUNS. He gives constant projects and not enough time to do them. He also likes to give additional homework while you're working on projects because why not. The syllabus feels like he's making it up as he goes and he wastes class time telling us about his stupid life. And somehow he gave us the WRONG final exam. He embodies incompetence
+Get ready to read
+Lots of homework
+Helpful
+Thumbs up
+2
+Thumbs down
+1
+
+Quality
+1.0
+Difficulty
+5.0
+CS1337
+Nov 10th, 2025
+For Credit: Yes
+Attendance: Mandatory
+Grade: C-
+Textbook: Yes
+This guy is one of the worst professors ever in my opinion. He seems like a nice guy at first, but he just teaches you extremely simple programs in class and then expects you to do the most complicated homework and projects. He also reports false cheating, about 30 students a semester according to himself on his reddit.
+Helpful
+Thumbs up
+3
+Thumbs down
+0
+
+Quality
+1.0
+Difficulty
+5.0
+CE2336
+Sep 13th, 2025
+For Credit: Yes
+Attendance: Mandatory
+Textbook: N/A
+this prof will straight up knock down any type of motivation you had for CS. His class will humble you. He wastes your time by teaching syntax and the very basic version of topics you have to use on your projects. You will feel very blindsided as he isn't clear in expectations regarding exams and quizes.
+Tough grader
+Lots of homework
+Helpful
+Thumbs up
+2
+Thumbs down
+0
+
+Quality
+1.0
+Difficulty
+5.0
+CS2336
+May 24th, 2025
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: B+
+Textbook: N/A
+Very strange, many beleive he's on a some sort of spectrum. Ask him a question. Won't won't clearly answer. He has an obsessive overbearing teaching style. Lectures consist of writing a few things on the board and quickly changes to some other topic. Lectures are a confusing. I like being challenged, but this is ridiculous.
+Tough grader
+Lots of homework
+Graded by few things
+Helpful
+Thumbs up
+2
+Thumbs down
+0
+
+Quality
+3.0
+Difficulty
+5.0
+CS2336
+May 11th, 2025
+For Credit: Yes
+Attendance: Mandatory
+Grade: Not sure yet
+Textbook: N/A
+He is very nice, very caring. Wants us to understand the material and succeed. Just the way he does it is very overbearing. Giant projects, insanely difficult exams, even harder quizzes (somehow). However, his lectures are amazing, very easy to understand complex topics. Just the part we get graded on is extremely difficult.
+Amazing lectures
+Lots of homework
+Caring
+Helpful
+Thumbs up
+0
+Thumbs down
+0
+
+Quality
+5.0
+Difficulty
+2.0
+CE1337
+May 9th, 2025
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: Yes
+Grade: A
+Textbook: N/A
+He's great. As he says at the first class, you'll have to learn outside class but he'll direct you(mostly zybooks). I think he was slow paced which is good if you didn't get it the first time. I don't know why this is not talked about but his "wisdom & quotes" are superb. He is a person that shows passion to teaching and a mentor.
+Helpful
+Thumbs up
+0
+Thumbs down
+2
+
+Quality
+1.0
+Difficulty
+5.0
+CS2336
+Apr 8th, 2025
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: B
+Textbook: N/A
+What can you say about him? Some students beleive he's on a spectrum. Just ask him a question and you'll see. Won't make eye contact, won't directly answer. He lectures by scribbling a few lines of code on the board. He switches topics hastily - no time to absorb for learning. Class time and lectures are a dystopic mess. Be a Masochist - take him.
+Tough grader
+Lots of homework
+Graded by few things
+Helpful
+Thumbs up
+0
+Thumbs down
+1
+
+Quality
+5.0
+Difficulty
+4.0
+CS2337
+Jan 30th, 2025
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: Yes
+Grade: A+
+Textbook: Yes
+Jason Smith gets a lot of rep about being the worst professor ever. I disagree. Professor Smith's class helped me wonders in the world of computer science and inspired me to start my own projects. He uses project based learning, which is homework heavy, but really helps you feel prepared for quizzes and exams.
+EXTRA CREDIT
+Amazing lectures
+Lots of homework
+Helpful
+Thumbs up
+1
+Thumbs down
+1
+
+Quality
+4.0
+Difficulty
+4.0
+CS2337
+Jan 9th, 2025
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: Yes
+Grade: A
+Textbook: Yes
+He wasn't super difficult and the grade is determined on a lot of different things (you can fail a quiz and still make an A-). Projects are difficult (but not impossible) and you should start at least 3 days before the due date. I found him to be reasonable with grading.
+EXTRA CREDIT
+Lots of homework
+Online Savvy
+Helpful
+Thumbs up
+0
+Thumbs down
+0
+
+Quality
+5.0
+Difficulty
+4.0
+CS2336
+Dec 25th, 2024
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: Yes
+Grade: A
+Textbook: N/A
+Very consistent schedule — one of few professors who has the entire semester laid out in syllabus, which makes managing the heavy workload much more manageable. Balanced grading criteria, detailed lectures, and well-thought-out assignments (rarely busy work). Accessible inside and outside class — will never make you feel as dumb as your questions.
+Group projects
+Lots of homework
+Accessible outside class
+Helpful
+Thumbs up
+0
+Thumbs down
+0
+
+Quality
+5.0
+Difficulty
+4.0
+CS2336
+Dec 18th, 2024
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: Yes
+Grade: B
+Textbook: Yes
+I took him for 1337 and he is extremely consistent in the way he teaches. You learn a lot, and his lectures are really engaging- never a power point. His exams got better this semester, and his grading is super fair. Time management is still your best friend, but if you can do that, you're golden. My favorite prof at UTD for SURE. Super chill too.
+Amazing lectures
+Lots of homework
+Respected
+Helpful
+Thumbs up
+1
+Thumbs down
+0
+
+Load More Ratings
+Help
+Site Guidelines
+Terms & Conditions
+Privacy Policy
+Copyright Compliance Policy
+CA Notice at Collection
+Do Not Sell My Personal Information
+Logo
+© 2026 Rate My Professors, LLC. All Rights Reserved

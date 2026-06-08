@@ -9,27 +9,28 @@
 
 ## Domain
 
-<!-- What domain did you choose? Why is this knowledge valuable and hard to find through official channels? -->
+Student reviews of **Computer Science professors at the University of Texas at Dallas**, collected from RateMyProfessors. The system answers plain-language questions about teaching style, workload, exam format, and which courses a professor is good/bad for.
+
+This knowledge is hard to find officially because the course catalog describes *what* a course covers, not *how* a professor teaches it. The lived experience exists only in student-to-student reviews, scattered across hundreds of individual ratings per professor.
 
 ---
 
 ## Documents
 
-<!-- List your specific sources: URLs, subreddit names, forum threads, or file descriptions.
-     Aim for at least 10 sources that together cover different subtopics or perspectives within your domain. -->
+10 professor pages from [RateMyProfessors](https://www.ratemyprofessors.com), UT Dallas Computer Science department. Each file contains the full set of student reviews across **all courses** that professor teaches.
 
 | # | Source | Description | URL or location |
 |---|--------|-------------|-----------------|
-| 1 | | | |
-| 2 | | | |
-| 3 | | | |
-| 4 | | | |
-| 5 | | | |
-| 6 | | | |
-| 7 | | | |
-| 8 | | | |
-| 9 | | | |
-| 10 | | | |
+| 1 | Gordon Arnold | RMP reviews, all CS courses | [`rmp_gordon_arnold.txt`](documents/rmp_gordon_arnold.txt) \| [RMP URL](https://www.ratemyprofessors.com/professor/1976371) |
+| 2 | Shyam Karrah | RMP reviews, all CS courses | [`rmp_shyam_karrah.txt`](documents/rmp_shyam_karrah.txt) \| [RMP URL](https://www.ratemyprofessors.com/professor/1554657) |
+| 3 | Jason Smith | RMP reviews, all CS courses | [`rmp_jason_smith.txt`](documents/rmp_jason_smith.txt) \| [RMP URL](https://www.ratemyprofessors.com/professor/1833058) |
+| 4 | Srimathi Srinivasan | RMP reviews, all CS courses | [`rmp_srimathi_srinivasan.txt`](documents/rmp_srimathi_srinivasan.txt) \| [RMP URL](https://www.ratemyprofessors.com/professor/2424646) |
+| 5 | Priya Narayanasami | RMP reviews, all CS courses | [`rmp_priya_narayanasami.txt`](documents/rmp_priya_narayanasami.txt) \| [RMP URL](https://www.ratemyprofessors.com/professor/2337456) |
+| 6 | Neeraj Gupta | RMP reviews, all CS courses | [`rmp_neeraj_gupta.txt`](documents/rmp_neeraj_gupta.txt) \| [RMP URL](https://www.ratemyprofessors.com/professor/1916155) |
+| 7 | Miguel Razo | RMP reviews, all CS courses | [`rmp_miguel_razo.txt`](documents/rmp_miguel_razo.txt) \| [RMP URL](https://www.ratemyprofessors.com/professor/1607810) |
+| 8 | Brian Ricks | RMP reviews, all CS courses | [`rmp_brian_ricks.txt`](documents/rmp_brian_ricks.txt) \| [RMP URL](https://www.ratemyprofessors.com/professor/2822326) |
+| 9 | Laurie Thompson | RMP reviews, all CS courses | [`rmp_laurie_thompson.txt`](documents/rmp_laurie_thompson.txt) \| [RMP URL](https://www.ratemyprofessors.com/professor/191259) |
+| 10 | Scott Dollinger | RMP reviews, all CS courses | [`rmp_scott_dollinger.txt`](documents/rmp_scott_dollinger.txt) \| [RMP URL](https://www.ratemyprofessors.com/professor/2523207) |
 
 ---
 
